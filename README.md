@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madusha Lakshan</h1>
+<h1 align="center">Hi 👋, I'm Madusha Dilshan</h1>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -47,6 +47,6 @@
 
 ------
 
-[Madusha ඪ්shan](https://github.com/MadushaLakshan)
+[Madupa Dilshan](https://github.com/madupadilshan)
 
-Last Edited on: 28/03/2025
+
