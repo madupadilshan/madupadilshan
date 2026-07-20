@@ -1,201 +1,197 @@
+<!-- ═══════════════════════════════  HERO  ═══════════════════════════════ -->
+
+<a href="https://madupadilshan.live">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00d9ff&height=200&section=header&text=Madupa%20Dilshan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineer%20%E2%80%A2%20Automating%20Everything%20That%20Runs%20Twice&descAlignY=58&descSize=16" alt="Madupa Dilshan — Cloud & DevOps Engineer" />
+</a>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Madupa+Dilshan;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Infrastructure" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=Infrastructure+as+Code+%7C+Terraform+%2B+AWS;CI%2FCD+Pipeline+Automation+%7C+Jenkins+%2B+GitHub+Actions;Containers+%26+Orchestration+%7C+Docker+%2B+Kubernetes;I+automate+everything+I+do+more+than+twice." alt="What I do" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-madupadilshan.live-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madupadilshan.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madupa-dilshan-3226711b1)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madupadilshan111@gmail.com)
+[![X](https://img.shields.io/badge/X-@MadupaDil-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MadupaDil)
+
+<img src="https://komarev.com/ghpvc/?username=madupadilshan&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to-Cloud%20%2F%20DevOps%20Internship-success?style=flat-square" alt="Open to internship" />
+
 </div>
 
-<h3 align="center">🚀 Network Technology Undergraduate | Cloud & DevOps Engineer</h3>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madupadilshan&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00D9FF?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Seeking%20Internship-success?style=for-the-badge" alt="Status" />
-</p>
+<!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
 
----
+## &nbsp;👨‍💻&nbsp; About Me
 
-## 👨‍💻 About Me
+> Network Technology undergraduate and Cloud & DevOps engineer building **automated, scalable, and reliable infrastructure** that lets teams ship faster. I turn manual, error-prone processes into repeatable pipelines — and I automate anything I have to do more than twice.
 
 ```yaml
-name: Madupa Dilshan
-role: Cloud & DevOps Engineer
-currently_seeking: Cloud/DevOps Internship
-focus:
-  - Infrastructure as Code (IaC)
-  - CI/CD Pipeline Automation
-  - Cloud Architecture (AWS)
-  - Container Orchestration
-  - System Administration
-  
-passion: |
-  Building automated, scalable, and reliable infrastructure
-  that enables teams to deploy faster and more efficiently.
+madupa:
+  role:      "Cloud & DevOps Engineer"
+  based_in:  "Sri Lanka 🇱🇰"
+  focus:
+    - Infrastructure as Code (Terraform)
+    - CI/CD Pipeline Automation
+    - Containers & Orchestration (Docker, Kubernetes)
+    - AWS Cloud Architecture (EC2, ECS, S3, VPC)
+    - Linux System Administration
+  currently_building:  "Automated AWS infrastructure with Terraform"
+  currently_learning:  ["Kubernetes", "Ansible", "AWS advanced architectures"]
+  ask_me_about:        ["CI/CD", "Docker", "Jenkins", "Terraform", "AWS"]
 ```
 
-🔭 **Currently Working On:** Automating cloud infrastructure using Terraform and AWS  
-🌱 **Learning:** Kubernetes, Ansible, and AWS Advanced Architectures  
-💬 **Ask Me About:** CI/CD, Docker, Jenkins, Terraform, AWS  
-⚡ **Fun Fact:** I automate everything I do more than twice!
+<br/>
 
----
+<!-- ═══════════════════════════════  TECH STACK  ═══════════════════════════════ -->
 
-## 🛠️ Tech Stack & DevOps Tools
+## &nbsp;🧰&nbsp; Tech Stack & Tooling
+
+<div align="center">
+
+**☁️ Cloud & Infrastructure as Code**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible&theme=dark" alt="AWS, Terraform, Ansible" />
+
+**📦 Containers, Orchestration & Web Servers**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark" alt="Docker, Kubernetes, Nginx" />
+
+**🔄 CI/CD & Version Control**
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,github&theme=dark" alt="Jenkins, GitHub Actions, Git, GitHub" />
+
+**🐧 OS & Scripting**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash&theme=dark" alt="Linux, Ubuntu, Bash" />
+
+**💻 Languages & App Development**
+
+<img src="https://skillicons.dev/icons?i=py,js,java,nodejs,express,react,mongodb&theme=dark" alt="Python, JavaScript, Java, Node.js, Express, React, MongoDB" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
+
+## &nbsp;🚀&nbsp; Featured Projects
+
+> Full-stack applications I've built end-to-end — now the focus is **containerizing them and automating their delivery** as part of my DevOps journey.
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### ☁️ Cloud & Infrastructure
-<div align="center">
-  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### 🧑‍💼 Job Board Platform
+Full-stack MERN job portal with a decoupled **React** frontend and a **Node.js + Express + MongoDB** REST API — the kind of multi-service app that's ideal for a containerized CI/CD workflow.
 
-</div>
+`React` · `Node.js` · `Express` · `MongoDB`
+
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-00D9FF?style=flat-square&logo=github&logoColor=white)](https://github.com/madupadilshan/jobboardApp)
+[![Backend](https://img.shields.io/badge/Backend-Repo-0072ff?style=flat-square&logo=github&logoColor=white)](https://github.com/madupadilshan/jobboardBackend)
+
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🔄 DevOps & CI/CD
-<div align="center">
-  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🛒 E-Commerce Store
+A **React** storefront with product browsing and cart flows, structured for a clean production build — a solid candidate for a Docker image behind Nginx and an automated deploy pipeline.
 
-</div>
+`React` · `JavaScript` · `CSS`
+
+[![Repo](https://img.shields.io/badge/View-Repository-00D9FF?style=flat-square&logo=github&logoColor=white)](https://github.com/madupadilshan/ecommerce-store)
+
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 💻 Programming Languages
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+### 📊 Real-Time Polling System
+Create polls, vote, and watch results update **live** — built with **React** and **Firebase Firestore** for real-time synchronization across clients.
 
-</div>
+`React` · `Firebase` · `Firestore`
+
+[![Repo](https://img.shields.io/badge/View-Repository-00D9FF?style=flat-square&logo=github&logoColor=white)](https://github.com/madupadilshan/online-polling-system)
+
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🗄️ Databases & Backend
-<div align="center">
-  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🌐 Developer Portfolio
+My personal portfolio showcasing my Cloud & DevOps focus, skills, and projects — live and continuously updated.
 
-</div>
+`Web` · `Responsive` · `SEO`
+
+[![Live](https://img.shields.io/badge/Live-madupadilshan.live-success?style=flat-square&logo=google-chrome&logoColor=white)](https://madupadilshan.live)
+
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🎯 DevOps Practices
+<!-- ═══════════════════════════════  DEVOPS LIFECYCLE  ═══════════════════════════════ -->
+
+## &nbsp;♾️&nbsp; The DevOps Lifecycle I Work Toward
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[Plan] --> B[Code]
-    B --> C[Build]
-    C --> D[Test]
-    D --> E[Release]
-    E --> F[Deploy]
-    F --> G[Operate]
-    G --> H[Monitor]
-    H --> A
-    
-    style A fill:#00D9FF
-    style B fill:#00D9FF
-    style C fill:#00D9FF
-    style D fill:#00D9FF
-    style E fill:#00D9FF
-    style F fill:#00D9FF
-    style G fill:#00D9FF
-    style H fill:#00D9FF
+flowchart LR
+    A(📝 Plan) --> B(💻 Code) --> C(🏗️ Build) --> D(🧪 Test)
+    D --> E(📦 Release) --> F(🚀 Deploy) --> G(⚙️ Operate) --> H(📈 Monitor)
+    H -.-> A
+
+    classDef stage fill:#0D1117,stroke:#00D9FF,stroke-width:2px,color:#00D9FF;
+    class A,B,C,D,E,F,G,H stage;
 ```
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="48" height="48" alt="IaC"/>
-<br><strong>Infrastructure as Code</strong>
-<br><sub>Terraform, CloudFormation</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Containerization"/>
-<br><strong>Containerization</strong>
-<br><sub>Docker, Container Orchestration</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48" height="48" alt="CI/CD"/>
-<br><strong>CI/CD Automation</strong>
-<br><sub>Jenkins, GitHub Actions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="Cloud"/>
-<br><strong>Cloud Architecture</strong>
-<br><sub>AWS, Cloud Native Design</sub>
-</td>
-</tr>
-</table>
+<br/>
 
----
+<!-- ═══════════════════════════════  GITHUB STATS  ═══════════════════════════════ -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madupadilshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madupadilshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madupadilshan&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madupadilshan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madupadilshan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
----
-
-## 📫 Let's Connect
+## &nbsp;📊&nbsp; GitHub Activity
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-madupadilshan.live-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://madupadilshan.live)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madupa_Dilshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madupa-dilshan-3226711b1)
-[![Email](https://img.shields.io/badge/Email-madupadilshan111@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madupadilshan111@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-madupadilshan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madupadilshan)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=madupadilshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madupadilshan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=madupadilshan&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
 </div>
 
----
+<br/>
+
+<!-- Snake contribution graph — requires the snake GitHub Action (setup note in the message that accompanied this file) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madupadilshan/madupadilshan/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madupadilshan/madupadilshan/output/snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/madupadilshan/madupadilshan/output/snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
-  
-  ### 💭 Quote of the Day
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Automate%20everything%20you%20can,%20monitor%20everything%20you%20automate&author=DevOps%20Philosophy)
-  
-  <sub>⭐️ From [madupadilshan](https://github.com/madupadilshan) with ❤️</sub>
+
+### 💭 Philosophy
+
+**`Automate everything you can — monitor everything you automate.`**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0072ff&height=120&section=footer" alt="footer" />
+
+<sub>⭐️ Thanks for visiting — let's build something reliable together.</sub>
+
 </div>
